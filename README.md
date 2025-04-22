@@ -192,5 +192,111 @@ ORDER BY Total_Orders;**
 
 ## Data Analysis
 
-### Insight
+### Overview
 
+## Key Numbers
+- **Total Revenue**: $818,000
+- **Average Order Value**: $38.31
+- **Total Pizzas Sold**: 49,574
+- **Total Orders**: 21,350
+- **Average Pizzas Per Order**: 2.32
+
+---
+
+## Monthly Trends
+
+### Total Orders by Month
+Looking at the number of orders throughout the year, we see that **January** and **October** have the most orders. The number of orders tends to go down toward the end of the year, which might be because of less demand after the busy summer months.
+
+This information helps us figure out when we have the most customers and when we might need to do promotions or offer discounts to boost sales.
+
+---
+
+## Sales Breakdown
+
+### Which Pizza Types Sell the Most?
+- **Classic Pizzas**: 23.68% of total sales
+- **Supreme Pizzas**: 26.91% of total sales
+- **Chicken Pizzas**: 23.56% of total sales
+- **Veggie Pizzas**: 23.96% of total sales
+
+Classic and Supreme pizzas make up the biggest chunk of sales. This means we could focus more on promoting these types since people seem to prefer them.
+
+---
+
+### Which Pizza Sizes are the Most Popular?
+- **Large**: 45.89% of sales
+- **Medium**: 21.77% of sales
+- **Regular**: 30.49% of sales
+- **XXL**: 1.72% of sales
+
+Large pizzas are by far the most popular, which makes sense because people tend to buy larger pizzas for groups. We could push the Large size more, especially when we expect a lot of orders.
+
+---
+
+## Where and When are Sales the Worst?
+
+### By Day of the Week
+- **Friday**: Most orders (3.5K orders)
+- **Saturday**: Slightly fewer (3.2K orders)
+- **Sunday**: Least orders (2.6K orders)
+
+### By Month
+- **January**: The month with the most orders (1,845 orders)
+- **December**: The month with the fewest orders (1,680 orders), showing a dip toward the end of the year.
+
+Weekends, especially Fridays and Saturdays, bring in the most orders. But January is the busiest month, while December tends to be slow. Knowing this can help us prepare for busy months and plan special deals during slower months to keep customers coming.
+
+
+#### Key Numbers
+- **Total Revenue**: $818,000
+- **Average Order Value**: $38.31
+- **Total Pizzas Sold**: 49,574
+- **Total Orders**: 21,350
+- **Average Pizzas Per Order**: 2.32
+
+---
+
+#### Monthly Trends
+
+##### Total Orders by Month
+Looking at the number of orders throughout the year, we see that **January** and **October** have the most orders. The number of orders tends to go down toward the end of the year, which might be because of less demand after the busy summer months.
+
+This information helps us figure out when we have the most customers and when we might need to do promotions or offer discounts to boost sales.
+
+---
+
+#### Sales Breakdown
+
+##### Which Pizza Types Sell the Most?
+- **Classic Pizzas**: 23.68% of total sales
+- **Supreme Pizzas**: 26.91% of total sales
+- **Chicken Pizzas**: 23.56% of total sales
+- **Veggie Pizzas**: 23.96% of total sales
+
+Classic and Supreme pizzas make up the biggest chunk of sales. This means we could focus more on promoting these types since people seem to prefer them.
+
+---
+
+#### Which Pizza Sizes are the Most Popular?
+- **Large**: 45.89% of sales
+- **Medium**: 21.77% of sales
+- **Regular**: 30.49% of sales
+- **XXL**: 1.72% of sales
+
+Large pizzas are by far the most popular, which makes sense because people tend to buy larger pizzas for groups. We could push the Large size more, especially when we expect a lot of orders.
+
+---
+
+#### Where and When are Sales the Worst?
+
+##### By Day of the Week
+- **Friday**: Most orders (3.5K orders)
+- **Saturday**: Slightly fewer (3.2K orders)
+- **Sunday**: Least orders (2.6K orders)
+
+##### By Month
+- **January**: The month with the most orders (1,845 orders)
+- **December**: The month with the fewest orders (1,680 orders), showing a dip toward the end of the year.
+
+Weekends, especially Fridays and Saturdays, bring in the most orders. But January is the busiest month, while December tends to be slow. Knowing this can help us prepare for busy months and plan special deals during slower months to keep customers coming.
