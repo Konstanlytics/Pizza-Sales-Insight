@@ -302,3 +302,55 @@ Large pizzas are by far the most popular, which makes sense because people tend 
 - **December**: The month with the fewest orders (1,680 orders), showing a dip toward the end of the year.
 
 Weekends, especially Fridays and Saturdays, bring in the most orders. But January is the busiest month, while December tends to be slow. Knowing this can help us prepare for busy months and plan special deals during slower months to keep customers coming.
+
+
+## Best/Worst Selling Pizza
+
+![Best-worst-selling-pizza](https://github.com/Konstanlytics/Pizza-Sales-Insight/blob/main/Best-Worst-Selling-Pizza.JPG)
+
+
+### Key Numbers
+- **Total Revenue**: $818,000
+- **Average Order Value**: $38.31
+- **Total Pizzas Sold**: 49,574
+- **Total Orders**: 21,350
+- **Average Pizzas Per Order**: 2.32
+
+---
+
+### Best-Selling Products
+
+##### Revenue:
+- The **Thai Chicken Pizza** is the top performer, bringing in **$43,434** in total sales.
+- The **Barbecue Chicken Pizza** follows closely with **$42,768** in revenue.
+- **California Chicken Pizza** made **$41,410** in revenue.
+- **Classic Deluxe Pizza** generated **$31,814** in revenue.
+- The **Spicy Italian Pizza** made **$34,831** in total revenue.
+
+The **Thai Chicken Pizza** not only sells the most but also contributes the most to the business’s revenue.
+
+---
+
+### Total Quantities Sold:
+- The **Classic Deluxe Pizza** is the top-seller in terms of quantity sold.
+- The **Barbecue Chicken Pizza** and **California Chicken Pizza** also sell a lot of units.
+
+---
+
+### Worst-Selling Products
+
+##### Revenue:
+- The **Brie Carre Pizza** is the worst performer, bringing in the least amount of revenue, **$34,831**.
+- The **Classic Deluxe Pizza** also performed poorly in revenue with **$31,814**.
+- **The Spicy Italian Pizza** performed relatively poorly with **$34,831** in revenue.
+
+### Total Orders:
+- The **Brie Carre Pizza** had the fewest orders placed, indicating a need for improvement in sales or marketing for this product.
+
+---
+
+### Key Insights:
+- The **Thai Chicken Pizza** is the clear winner in sales and revenue, and should continue to be promoted.
+- The **Brie Carre Pizza** is the worst performer and may need reworking or a fresh marketing strategy to improve its sales.
+
+
