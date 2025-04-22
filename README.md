@@ -194,6 +194,8 @@ ORDER BY Total_Orders;**
 
 ### Overview
 
+![pizza-overview](https://github.com/Konstanlytics/Pizza-Sales-Insight/blob/main/Pizza-Overview.JPG)
+
 ## Key Numbers
 - **Total Revenue**: $818,000
 - **Average Order Value**: $38.31
