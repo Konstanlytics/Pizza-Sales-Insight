@@ -48,6 +48,7 @@ Power BI – Used for data modeling, DAX measures, and dashboard creation
 
 Before building the visual dashboard in Power BI, we used SQL to perform data aggregation and business metric derivation from the raw transactional data. This script was responsible for generating key insights and summarized KPIs that were later visualized in the dashboard.
 
+```sql
 -- Calculate for Revenue by Summing the Total_Sales
 Select SUM(total_price) 
 		AS Revenue
@@ -190,6 +191,7 @@ From pizza_sales
 Group by pizza_name
 order by Total_orders
 
+```
 ## Data Analysis
 
 ### Overview
